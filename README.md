@@ -25,7 +25,7 @@ Front-End **React** Developer and **4th-year Computer Engineering student**. I b
 <p align="left">
   <a href="https://www.linkedin.com/in/abdullah-abusharekh-632b73172/" target="_blank">
   <img alt="LinkedIn" title="LinkedIn" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>>&nbsp;
+</a>&nbsp;
   <a href="https://www.facebook.com/abdullah.abusharekh" target="_blank">
     <img alt="Facebook" title="Facebook" height="40" src="https://cdn.simpleicons.org/facebook/1877F2" />
   </a>&nbsp;
