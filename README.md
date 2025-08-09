@@ -22,9 +22,20 @@ Front-End **React** Developer and **4th-year Computer Engineering student**. I b
 ---
 
 ## 📫 Contact
-- **Email:** your.email@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/your-link  
-- **GitHub:** https://github.com/AbdullahMedhat141
+<p align="left">
+  <a href="aboodmabusharekh1412004@gmail.com" target="_blank">
+    <img alt="Gmail" title="Email" height="40" src="https://cdn.simpleicons.org/gmail/EA4335" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/abdullah-abusharekh-632b73172/" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/abdullah.abusharekh" target="_blank">
+    <img alt="Facebook" title="Facebook" height="40" src="https://cdn.simpleicons.org/facebook/1877F2" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/abdullah.abusharekh/" target="_blank">
+    <img alt="Instagram" title="Instagram" height="40" src="https://cdn.simpleicons.org/instagram/E4405F" />
+  </a>
+</p>
 
 ---
 ✨ _Check out my repositories and pinned projects below!_
